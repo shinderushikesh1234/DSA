@@ -1,6 +1,6 @@
 class EvenOddCount {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5};
+        int[] arr = {40, 23, 56, 33, 78, 91, 12};
 
         int even = 0, odd = 0;
         for (int x : arr) {
